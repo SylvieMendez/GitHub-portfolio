@@ -472,7 +472,8 @@ body:not(.user-is-tabbing) a:focus {
 }
 
 .work__text_c {
-    flex: 0 0 10%;
+    flex: 0 0 30%;
+    align-self: flex-start;
 }
 
 
